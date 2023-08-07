@@ -1,6 +1,4 @@
 # WebApp ACP - Docente De Simone
-## Giovanni Ciccarelli N46005832
-## Francesco Brunello N46006794
 
 Web Application di un centro sportivo per il corso di ACP <br>
 Sono state implementate la vista dell'amministratore e di un cliente <br><br>
